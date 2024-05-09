@@ -1,0 +1,33 @@
+{
+  "name": "wordss_counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "words.js",
+  "type": "module",
+  "bin": "words.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "A",
+    "simple",
+    "word",
+    "counter",
+    "with",
+    "typescript",
+    "Node.js",
+    "and",
+    "inquirer"
+  ],
+  "author": "muhammad~sameer",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
